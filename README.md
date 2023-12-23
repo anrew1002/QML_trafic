@@ -1,5 +1,3 @@
-![svetofor1](https://github.com/p1petto/QML/assets/108504552/45e294a1-cd58-4be5-8740-3191ea508799)
-
-![svetofor2](https://github.com/p1petto/QML/assets/108504552/8fc20688-95b3-49a3-87d7-d45fcb78d3ce)
-
-![svetofor3](https://github.com/p1petto/QML/assets/108504552/43db6a75-ebb6-4197-a30c-c95ca8beccd5)
+![Скриншот 23-12-2023 210631](https://github.com/anrew1002/QML_trafic/assets/91276494/4b18bde1-cf15-4180-8923-92495369454b)
+  ![Скриншот 23-12-2023 210830](https://github.com/anrew1002/QML_trafic/assets/91276494/f32616d9-7884-4771-b335-dfe2f428f724)
+![Скриншот 23-12-2023 210850](https://github.com/anrew1002/QML_trafic/assets/91276494/2a5d7479-7160-4724-bdbe-092272ecd415)
